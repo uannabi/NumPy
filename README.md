@@ -47,8 +47,3 @@ Each notebook in this repository is self-contained and includes both explanation
 
 Contributions to enhance the examples, add new datasets, or improve documentation are highly welcomed. Feel free to fork this repository and submit your pull requests.
 
-
-
----
-
-Remember to replace `[YourUsername]`, `[License Name]`, and `[Your Email]` with your specific details. This README provides a comprehensive and user-friendly guide for anyone interested in learning EDA with NumPy in Jupyter Notebooks.
